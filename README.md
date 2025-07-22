@@ -2,6 +2,8 @@ Flask web application that helps you build a personalised Spotify‑style playli
 by rating a handful of sample tracks
 
 
+
+
 Features
 
 Clean, responsive UI – vanilla Flask templates with inline CSS.
@@ -17,6 +19,8 @@ Positive & negative feedback – pulls similar songs closer, pushes disliked o
 Diversity‑aware re‑ranking – greedily selects songs that are both relevant and cover different sub‑regions.
 
 Popularity boost – mixes similarity with Spotify popularity (tunable POPULAR_W).
+
+
 
 
 Algorithm Overview
